@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Resizer.dir/progs/demos/Resizer/Resizer.cpp.o  -o bin/Resizer -Wl,-rpath,/home/liangliang/doc/note/opengl/freeglut-3.0.0/lib -lGLU -lGL -lm -lSM -lICE -lX11 -lXext -lXrandr -lXxf86vm -lXi -lm lib/libglut.so.3.10.0 -lGL -lm -lSM -lICE -lX11 -lXext -lXrandr -lXxf86vm -lXi 

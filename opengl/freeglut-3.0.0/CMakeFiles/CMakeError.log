@@ -1,0 +1,42 @@
+Determining if files usbhid.h exist failed with the following output:
+Change Dir: /home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f855c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f855c.dir/build.make CMakeFiles/cmTC_f855c.dir/build
+make[1]: 进入目录“/home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_f855c.dir/HAVE_USBHID_H.c.o
+/usr/bin/cc   -Wall -pedantic    -o CMakeFiles/cmTC_f855c.dir/HAVE_USBHID_H.c.o   -c /home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CheckIncludeFiles/HAVE_USBHID_H.c
+/home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CheckIncludeFiles/HAVE_USBHID_H.c:2:10: fatal error: usbhid.h: 没有那个文件或目录
+ #include <usbhid.h>
+          ^~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_f855c.dir/build.make:66：CMakeFiles/cmTC_f855c.dir/HAVE_USBHID_H.c.o] 错误 1
+make[1]: 离开目录“/home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CMakeTmp”
+make: *** [Makefile:121：cmTC_f855c/fast] 错误 2
+
+Source:
+/* */
+#include <usbhid.h>
+
+
+int main(void){return 0;}
+
+Determining if the function XParseGeometry exists failed with the following output:
+Change Dir: /home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0774f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0774f.dir/build.make CMakeFiles/cmTC_0774f.dir/build
+make[1]: 进入目录“/home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CMakeTmp”
+Building C object CMakeFiles/cmTC_0774f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -pedantic -DCHECK_FUNCTION_EXISTS=XParseGeometry   -o CMakeFiles/cmTC_0774f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_0774f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0774f.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -pedantic -DCHECK_FUNCTION_EXISTS=XParseGeometry    -rdynamic CMakeFiles/cmTC_0774f.dir/CheckFunctionExists.c.o  -o cmTC_0774f -lm 
+/usr/bin/ld: CMakeFiles/cmTC_0774f.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `XParseGeometry'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_0774f.dir/build.make:87：cmTC_0774f] 错误 1
+make[1]: 离开目录“/home/liangliang/doc/note/opengl/freeglut-3.0.0/CMakeFiles/CMakeTmp”
+make: *** [Makefile:121：cmTC_0774f/fast] 错误 2
+
+
