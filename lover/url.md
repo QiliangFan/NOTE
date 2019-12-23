@@ -60,6 +60,8 @@ wxhexeditor:16进制编辑
 
 gsmartcontrol: linux 硬盘管理软件
 
+numpy 数据查看器： Numpy viewer
+
 # 5. UI类:
 
 <a href="https://flatuicolors.com/">Palettes</a>
