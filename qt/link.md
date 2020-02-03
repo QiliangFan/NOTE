@@ -1,0 +1,1 @@
+http://cryfeifei.gitee.io/qmlbook-in-chinese/quick_starter/qmlqml_syntax.html

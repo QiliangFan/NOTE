@@ -62,6 +62,14 @@ gsmartcontrol: linux 硬盘管理软件
 
 numpy 数据查看器： Numpy viewer
 
+Zamzar.com : 文件格式转化
+
+Printfriendly.com: 友好的打印网站
+
+Pdfunlock.com: pdf解锁
+
+xdman: https://sourceforge.net/projects/xdman/  (下载源码手动安装才有用)
+
 # 5. UI类:
 
 <a href="https://flatuicolors.com/">Palettes</a>
@@ -71,4 +79,16 @@ numpy 数据查看器： Numpy viewer
 # 6. 环境类:
 
 <a href="[https://1-riverfish.github.io/2018/10/27/Ubuntu%E4%B8%8BClion%E9%85%8D%E7%BD%AE%E3%80%81%E4%BD%BF%E7%94%A8Glfw-Glad%E5%BC%80%E5%8F%91OpenGL%E9%A1%B9%E7%9B%AE/](https://1-riverfish.github.io/2018/10/27/Ubuntu下Clion配置、使用Glfw-Glad开发OpenGL项目/)">Ubuntu 下配置opengl</a>
+
+
+
+# 7. 垃圾清理:
+
+https://itsfoss.com/free-up-space-ubuntu-linux/
+
+# 8.英语学习：
+
+https://zhuanlan.zhihu.com/p/21477655
+
+https://mp.weixin.qq.com/s?__biz=MzAxNzMxMjE3Mg==&mid=2650470265&idx=1&sn=1df09325bd29ae8eee76c7e68aad89c9&scene=21#wechat_redirect
 
