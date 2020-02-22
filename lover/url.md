@@ -70,6 +70,16 @@ Pdfunlock.com: pdf解锁
 
 xdman: https://sourceforge.net/projects/xdman/  (下载源码手动安装才有用)
 
+vlc: ubuntu 视频播放器
+
+kazam: ubuntu 录屏软件
+
+pulseaudio：ubuntu声音管理
+
+pavucontrol: pulseaudio图形窗口
+
+codepen: 前端代码展示（前端学习好去处）
+
 # 5. UI类:
 
 <a href="https://flatuicolors.com/">Palettes</a>
