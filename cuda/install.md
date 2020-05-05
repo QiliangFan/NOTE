@@ -1,4 +1,4 @@
-sudo apt install nvidia-cuda-toolkit
+ssudo apt install nvidia-cuda-toolkit
 
 http://pythoncuda.com/
 

@@ -42,6 +42,12 @@ matrix  =numpy.asarray(image)
 image = Image.fromarray(matrix)
 ~~~
 
+~~~properties
+np.hstack:不同数组间扩展列
+np.stack: 不同数组间扩展行
+np.concatente: 相同数组间扩展
+~~~
+
 
 
 # 4. RGB图像:
@@ -70,3 +76,6 @@ print(k.image_data_format())  # 查看通道次序
 # 5. 维度问题:
 
 一张灰度二维图像: (m, n), 在channel last 中要reshape为(m, n, 1)
+
+# 6. plt显示图片
+plt.matshow(<图像ndarray>, <坐标轴num>)

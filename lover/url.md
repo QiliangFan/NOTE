@@ -34,6 +34,8 @@
 
 <a href="https://learnopengl-cn.github.io/">opengl教程</a>
 
+<a href="http://gxzy.xctf.org.cn/">网络攻防</a>
+
 
 
 # 4.工具类:
@@ -79,6 +81,18 @@ pulseaudio：ubuntu声音管理
 pavucontrol: pulseaudio图形窗口
 
 codepen: 前端代码展示（前端学习好去处）
+
+<a href="https://ssl.szu.edu.cn/com/installClient_en.html">easy_connect(跨平台ssl工具)</a>
+<a href="https://cowtransfer.com/">奶牛快传</a>
+
+<a href="https://s.growingio.com/Kv4OPn">简历制作工具</a>
+
+obs 直播软件
+
+Gravit Designer: ui设计工具(跨平台
+Inkscape ui设计工具(比上面那个好用
+
+<a href="https://send.firefox.com/">firefox send: 文件分享工具</a>
 
 # 5. UI类:
 
